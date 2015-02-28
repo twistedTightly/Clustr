@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Clustr": {
+            "applicationId": "NFqRdJPwEUENfaR4xeExbyVDivjhEtJOXup435Bq", 
+            "masterKey": "iN1BmnmE9PXb8iSvXMMw73VwJMsP0m0b4TIUZDtN"
+        }, 
+        "_default": {
+            "link": "Clustr"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.5"
+    }
+}
